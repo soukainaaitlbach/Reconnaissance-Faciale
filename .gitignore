@@ -1,0 +1,29 @@
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements
+env/
+venv/
+.venv/
+
+# variables d'environnement
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.swp
+
+# IDE / éditeurs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
